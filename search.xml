@@ -4,17 +4,23 @@
   
     
     <entry>
-      <title>网络操作系统课设</title>
-      <link href="/2022/06/20/wang-luo-cao-zuo-xi-tong-ke-she/"/>
-      <url>/2022/06/20/wang-luo-cao-zuo-xi-tong-ke-she/</url>
+      <title>学习资料</title>
+      <link href="/2022/06/27/hello-world/"/>
+      <url>/2022/06/27/hello-world/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="网站搭建"><a href="#网站搭建" class="headerlink" title="网站搭建"></a>网站搭建</h1><h2 id="需要的编辑软件"><a href="#需要的编辑软件" class="headerlink" title="需要的编辑软件"></a>需要的编辑软件</h2><ul><li>Typora<br>个人建议在国内的网站进行下载</li><li>VS code<br>轻量级文档编辑器</li></ul><h2 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h2><p><img src="https://tse3-mm.cn.bing.net/th/id/OIP-C.Zxtf2X2EddV-g7hKyBhilAHaQB?w=161&amp;h=350&amp;c=7&amp;r=0&amp;o=5&amp;dpr=1.25&amp;pid=1.7">  </p><h2 id="超链接"><a href="#超链接" class="headerlink" title="超链接"></a>超链接</h2><p><a href="https://code.visualstudio.com/">vscode下载地址</a><br><a href="https://yafine-blog.cn/posts/4ab2.html">学习链接</a><br><a href="https://www.fuhaozi.cn/daquan/biaoqing.html">表情包</a></p>]]></content>
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="1237c9a74c14969a73aa578cc8dda8b3f04aa84381728f4c930c2ddd5fa083d9">4e33d0e80610dbc55aea5645416209f269282ca7b1b266019c4e51807fb2da3edc751f3cbdec33e5bbbf99783d2777248c13e7f317d73d92bec83926fa4bc1381a3b1891ba03de4d60f63e0d01ea012247ef1f614731bdbd55a79f9b741a48bdf447034475c6273d1c1c36c35b89dbdd4b16d5afc797676abc8c8c8c74cc570dcbc99fe1aa3265ec687a7c50271228473a1116470da9b35ae779886f1959487909d3f2ddde40c42aa1d6f493c97bbeba82758ace6ec4003546c7f29cebc6f8d342855d90fb2c0a972e992cb7c81389045ce9f179c596649b0dfd0b3526eaf39be6c4a331ecbb35548ea060bf35a2520db8c0951ca523fd87f0ebea9d433031f6818e752952f9d8c8282c6d9df9c58221d2c539eefc76521eb0c924bb873267017bdf835249e28799d72ca22ce11f1ac57bcae857b76114a4d0ffa53ab65c2849a6c2a9cf9c6cfe241a057ae8f59df55bccd0a0d7238cba99bdfc40d0ee61d66d8ef6b56a535bf5f8e144e812266d5d35609435f447165790ecd77b95a5cc46b718251fff129f8363391a8b6615e6a09f38c7debe53730c46678cc6d3b9dc4e6e149bb5308819a495fb56af06d5f8f98e25097048de46aff4a48b05ca07997919747f91ddc861458efc0ad2ec61b3e17f5fa05cd7d6ece3ffc3acc75475f32afed87c011431d876b1112cb50e79983c87</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">输入密码，查看文章</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
       
       
         <tags>
             
-            <tag> web </tag>
+            <tag> 加密 </tag>
             
         </tags>
       
@@ -23,13 +29,25 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2022/06/19/hello-world/"/>
-      <url>/2022/06/19/hello-world/</url>
+      <title>网络操作系统课设</title>
+      <link href="/2022/06/20/wang-luo-cao-zuo-xi-tong-ke-she/"/>
+      <url>/2022/06/20/wang-luo-cao-zuo-xi-tong-ke-she/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><ul><li><a href="https://yafine-blog.cn/posts/4ab2.html">链接</a></li></ul>]]></content>
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="cdbcb0c43165ea54bec2cb31256871721c904b290689a1c7fa09053a9c3dd8f0">bfb743203915614fc2c0232c1553ee1361c3639a37b90a84879758c319664857d83a5f2444c7a3a901b1a99ae5209baa043836382b80899ce4b4d1e1309636de93fa20d9e17786fd5eeb3f72075b0713707c393139f6a75b780c4b81e602f5a84010cbccd55da242bef865630df82f56af061ca9cf471e8d06ddfbde709fd350ebdc3623e04a2327d829dced7360675876722b3550fee4d206ceb7fd7193b01f915703eb71285544d637989de026721f6d13f78d6e13052f8d09f1943daf46a6afbcdbe0497b0d5658751eaf278131581b71b3ff08e06db26b99352d65a27c219fd1a280016763e9836370001f133e20df2608354885c6a2677699da0b35d144d595c3c116501d68fafe7da3d2c4eec889ccbe915bfedec6b750ab1e84b6a8514ba97355e84f9433b7d6c531858978e92a7715f4c5036737c779cdfa98a15e84d699d624725a53e3d9c43f94f561dd64f4290c2d945025721ac95e2186683ffad6a54e9686425358e9eeec007e7c6f42c1479d00d97d4dc1fb7424f9e76a812a1b43153da687e9e4a757d4c5ee94d8429201d87349f3658abc3e87b5f66bacf2514df6f8e65fae73834a14f442a808c437a1713c3dd98fb5d23b4331d8f24621cb24a2b99185da546290add8754710f25cecc1e2a6eb29eb63e0a5379ffcc2620f190f7a823c55f8fbcb777597ebcb1c251ee454e07ababa73ede84c20ad5574e37fd0a2ccbd3e41cc4914c2b23d0d1bd80c74f0f394630cb3e55d844040e3972f8f20725b8608e535348942051a43957d5c394dbcc69362131790ccfac0e6606b86d38c75c8305a61ef20f9b3855c8c3f11e5dac0b582f9191c82e4d9e2d635ed0297e4a39646016da5e76a0f910772b09d6aafe0d6c5ed70eab5f490360a53d18c9e13c46ba5d0a7efd36543ef32bdaccad7765c8ba283dabd449b702c864b9395cb0f384b4fd07c8fc46129d3e1aa33e559c3d186713614ee56260575d32863b430288c12156efc452a3eb587d823e1f2e85f7e53e509a8df2e8e7d48c247e212bb026b5941c76f25c8a7152e713580142d2ed1d9edc5a4c98bebefb1dee202a015d0126a2bd5a1219af4f4498b9d1ef6c1e2fcb304e7cb63603d182bd04cd1b1c6e31a9b1df2f0f49a2c33884cf662e6d610cbfefca80a4d1a7b6143fd9dcf5beb972303a29409fbdbb8b460b16e75caf16ce4705a36599151a656f841ea5d1fa5c1a2d83dc9d88e387148b0818a2f659229d986ed4a5ea7c4b113bad7a955166ea18e8c017600c5cd70a7fdf799f4b2759e995981b4f7dcb0fbfd87aa4619b729d10d16fe4f508709fd0f9eaab5b4309705c96622708eeea8ca8ce7a2a1361faa10123ad13254480db0169eb31e68e5f92e42a920ddab8ebff2fd42361bf8280b3ffdd0625003e414bd8d7845ea209d602499affc94a1d3f23f29f5dd0424fc4cbb382771b245f714dfac9de894462f856713107c6a8befb431581bc6839eaae5cbcba27e2fd85e2a06c1fd3870bead451e08d898f5ee7c77c7efa1b280bc73cb03dd8d52ecc154185c81dfa33d0e1cf589d0511508dd0d3e73b6724116aa661d6a5dfa81dc6e15e1bcf1e79ae5133872b9d5fba1bf231b8aae06faeb34b35be3dba25706182ce3c7edfeda0b3a219c64b4daf622d20b0bc6183e2aa31b13e34e8a16d00c0a01cd881850d925c7e3da9d093dd91510db97fe345023fb58</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">输入密码，查看文章</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       
       
+      <categories>
+          
+          <category> 初阶 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 初始学习材料 </tag>
+            
+        </tags>
       
     </entry>
     
