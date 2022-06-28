@@ -48,7 +48,7 @@ const ap = new APlayer({
         //theme: '#46718b',
         name: 'Lemon',
         artist: '米津玄师',
-        url: 'https://m804.music.126.net/20220628204819/0463a8fc660f78ef00ad7340815f9dc8/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/5537384411/f08a/b15b/5f96/831f179ed0f4504de4da6bc4ba97d229.mp3?authSecret=00000181aa441c62103d0aaba23d171b',//'https://music.163.com/song/media/outer/url?id=1358848433',
+        url: 'https://dl.stream.qqmusic.qq.com/C400001xb80F2PZW8D.m4a?guid=7406439408&vkey=E36B5A5163F32579745A31888453FCE87A43B0E7B1D10D8D12A8AB40876C50A2EAD67206B95F9DF564B713DDA0611AB28DFBBA7C8074763C&uin=494067368&fromtag=120032',//'https://music.163.com/song/media/outer/url?id=1358848433',
         cover: 'http://p1.music.126.net/vi5vobUXgNQhN8I3C1Ue4A==/109951166337048680.jpg?param=130y130', //'http://p2.music.126.net/Ax-zrmAPBrASWxT92t3fdw==/109951164000242827.jpg?param=130y130',
       },
       {
