@@ -39,10 +39,10 @@ const ap = new APlayer({
       // },
       {
         //theme: '#46718b',
-        name: 'summertime（Arrange ver.）',
-        artist: '麦吉_Maggie / 盖盖Nyan',
-        url: 'https://m10.music.126.net/20220628204044/4afee9bf4765b3cf036464ca54c0b326/yyaac/510e/5508/0752/fdf5b22675bbf36c4123083c6fdd0b57.m4a',//'https://music.163.com/song/media/outer/url?id=1358848433',
-        cover: 'http://p1.music.126.net/F8n59CLKs2J_YH62RGPR9g==/109951165269752250.jpg?param=130y130', //'http://p2.music.126.net/Ax-zrmAPBrASWxT92t3fdw==/109951164000242827.jpg?param=130y130',
+        name: '朗朗晴天/ハレハレヤ',
+        artist: '麦吉_Maggie ',
+        url: 'https://dl.stream.qqmusic.qq.com/C400001CEaSR49Rls1.m4a?guid=6107209908&vkey=EEE39E687D60AA237C7D62A89575380DAA3584BC7F029866208D17CEA1E64A6084B8935B1E6121A72F7CBD121B9B09E1808610BA62F9E00D&uin=494067368&fromtag=120032',//'https://music.163.com/song/media/outer/url?id=1358848433',
+        cover: 'https://y.qq.com/music/photo_new/T002R300x300M000001rTXPu4E94nL_1.jpg?max_age=2592000', //'http://p2.music.126.net/Ax-zrmAPBrASWxT92t3fdw==/109951164000242827.jpg?param=130y130',
       },
       {
         //theme: '#46718b',
@@ -85,6 +85,20 @@ const ap = new APlayer({
         artist: '猪小猪',
         url: 'https://dl.stream.qqmusic.qq.com/C400002nsgm42IdNi3.m4a?guid=0&vkey=86FA4761769F931FF144549C01CDE98598B2D0C01D3054A690C2E4B0244B2F1A98D9BDDEB39B3FF48196411587F5974FBC2114F288AFA6F6&uin=494067368&fromtag=120032',//'https://music.163.com/song/media/outer/url?id=1358848433',
         cover: 'https://y.qq.com/music/photo_new/T002R300x300M000000fUP5G0ZWKGA_3.jpg?max_age=2592000', //'http://p2.music.126.net/Ax-zrmAPBrASWxT92t3fdw==/109951164000242827.jpg?param=130y130',
+      },
+      {
+        //theme: '#46718b',
+        name: '白鸽',
+        artist: '你的上好佳',
+        url: 'https://dl.stream.qqmusic.qq.com/C400003yO6g71TOzDf.m4a?guid=7733612032&vkey=2F373D7724B8186016701D67BCE21851AE7472D570F21FFE6D16EAC1E1590198B6EE199BF366DA89D368305FF1E1B7B5C35BF183277B2690&uin=494067368&fromtag=120032',//'https://music.163.com/song/media/outer/url?id=1358848433',
+        cover: 'https://y.qq.com/music/photo_new/T002R300x300M0000022CjDg3DmaES_2.jpg?max_age=2592000', //'http://p2.music.126.net/Ax-zrmAPBrASWxT92t3fdw==/109951164000242827.jpg?param=130y130',
+      },
+      {
+        //theme: '#46718b',
+        name: '晚风做酒',
+        artist: 'L（桃籽） /周林枫 /三楠',
+        url: 'https://dl.stream.qqmusic.qq.com/C4000019oo0u0jIV7Z.m4a?guid=5449785194&vkey=59C6FE449EBB70FA4699FA6844946EBE36D9FBF38898130D50128B5E22ADFBDE79E76CFE464DBAE5617DE1D0AE9D7D159555129680B885E7&uin=494067368&fromtag=120032',//'https://music.163.com/song/media/outer/url?id=1358848433',
+        cover: 'https://y.qq.com/music/photo_new/T002R300x300M000003FdArP2PlB1j_2.jpg?max_age=2592000', //'http://p2.music.126.net/Ax-zrmAPBrASWxT92t3fdw==/109951164000242827.jpg?param=130y130',
       },
 
 
